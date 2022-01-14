@@ -1,0 +1,16 @@
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\bin\Debug\net5.0\ChatServer.exe
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\bin\Debug\net5.0\ChatServer.dll
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\bin\Debug\net5.0\ref\ChatServer.dll
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\obj\Debug\net5.0\ChatServer.csproj.AssemblyReference.cache
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\obj\Debug\net5.0\ChatServer.dll
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+D:\KPI\1-й семестр\Разпределенные системы и вычисления\Лабараторная работа №1\ChatApp\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
